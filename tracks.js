@@ -27,9 +27,9 @@ const TRACKS = [
   },
 {
   id: 2,
-  title: "PXP x ChatGPT_Suno - PNJ",
+  title: "PXP feat Chatgpt_Suno - Sous la peau",
   genre: "Drill Sad 140BPM",
-  src: "musiques/NOM-EXACT-DU-FICHIER.mp3",
+  src: "musiques/PXP feat Chatgpt_Suno - Sous la peau.mp3",
   cover: "",
   synopsis: ""
 },
