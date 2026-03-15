@@ -23,32 +23,13 @@
 const TRACKS = [
   {
     id: 1,
-    title: "Exemple — Aube Digitale",
-    genre: "Ambient",
+    title: "PXP x ChatGPT_Suno - PNJ",
+    genre: "Drill Hook Melodic - 140 BPM",
     src: "musiques/PXP x ChatGPT_Suno - PNJ.mp3",
     cover: "",
-    synopsis: "Un voyage contemplatif entre deux mondes. Les textures sonores se fondent dans un espace suspendu, hors du temps.",
+    synopsis: "Personnage Non Joueur",
     lyrics: ""
   },
-  {
-    id: 2,
-    title: "Exemple — Nuit Électrique",
-    genre: "Electronic",
-    src: "musiques/exemple2.mp3",
-    cover: "",
-    synopsis: "Rythmes hypnotiques et basses profondes. Une nuit urbaine vue depuis les toits.",
-    lyrics: "Verse 1:\nLes lumières de la ville brillent\nDans ce silence qui scintille\n\nChorus:\nNuit électrique, on s'envole\nLes sons dansent, l'âme console"
-  },
-  {
-    id: 3,
-    title: "Exemple — Horizons",
-    genre: "Cinematic",
-    src: "musiques/exemple3.mp3",
-    cover: "",
-    synopsis: "Orchestrations épiques pour des paysages imaginaires. Comme une scène de film que tu n'as jamais vu.",
-    lyrics: ""
-  }
-
   // ── Ajoute tes morceaux ci-dessous ──────────────────────────────────────
   // {
   //   id: 4,
