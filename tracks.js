@@ -30,7 +30,7 @@ const TRACKS = [
   title: "PXP feat Chatgpt_Suno - Sous la peau",
   genre: "Drill Sad 140BPM",
   src: "musiques/PXP feat Chatgpt_Suno - Sous la peau.mp3",
-  cover: "",
+  cover: "pochettes/souspoc.jpg",
   synopsis: ""
 },
 
