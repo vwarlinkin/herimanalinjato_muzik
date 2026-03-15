@@ -25,7 +25,7 @@ const TRACKS = [
     id: 1,
     title: "Exemple — Aube Digitale",
     genre: "Ambient",
-    src: "musique/PXP x ChatGPT_Suno - PNJ.mp3",
+    src: "musiques/PXP x ChatGPT_Suno - PNJ.mp3",
     cover: "",
     synopsis: "Un voyage contemplatif entre deux mondes. Les textures sonores se fondent dans un espace suspendu, hors du temps.",
     lyrics: ""
