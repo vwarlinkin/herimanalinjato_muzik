@@ -26,7 +26,7 @@ const TRACKS = [
     title: "PXP x ChatGPT_Suno - PNJ",
     genre: "Drill Hook Melodic - 140 BPM",
     src: "musiques/PXP x ChatGPT_Suno - PNJ.mp3",
-    cover: "",
+    cover: "pochettes/pnjpoc.jpg",
     synopsis: "Personnage Non Joueur",
     lyrics: ""
   },
