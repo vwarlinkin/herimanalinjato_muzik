@@ -28,7 +28,7 @@ const TRACKS = [
     src: "musiques/PXP x ChatGPT_Suno - PNJ.mp3",
     cover: "pochettes/pnjpoc.jpg",
     synopsis: "Personnage Non Joueur",
-    lyrics: "lyrics: `Intro
+    lyrics: "`Intro
 Yeah…
 Loading…
 NPC mode.
