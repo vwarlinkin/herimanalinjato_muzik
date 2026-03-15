@@ -29,9 +29,9 @@ const TRACKS = [
   id: 2,
   title: "PXP x ChatGPT_Suno - PNJ",
   genre: "Drill Sad 140BPM",
-  src: "musiques/PXP x ChatGPT_Suno - PNJ.mp3",
-  cover:""
-  synopsis:""
+  src: "musiques/NOM-EXACT-DU-FICHIER.mp3",
+  cover: "",
+  synopsis: ""
 },
 
   // ── Ajoute tes morceaux ci-dessous ──────────────────────────
