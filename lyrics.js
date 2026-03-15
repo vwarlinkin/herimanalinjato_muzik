@@ -112,6 +112,71 @@ Même comprendre est prévu dedans
 
 Même douter fait partie du plan
 Même comprendre est prévu dedans`,
+ 2 :`
+Couplet 1
+
+La nuit me parle à voix basse,
+Mon cœur court sans raison.
+Des pensées qui s’entassent,
+Comme un mur sans horizon.
+Je souris pour faire semblant,
+Mais dedans tout tremble encore,
+Chaque seconde me rappelle
+Que j’ai peur, et j’ai tort.
+
+Pré-refrain
+
+Respirer, mais l’air est lourd,
+Avancer sans faire demi-tour.
+
+Refrain
+
+Le stress sous la peau, la peur dans les veines,
+Un feu silencieux qui brûle sans haine.
+Je tiens debout mais je vacille parfois,
+Humain, fragile, perdu entre hier et moi.
+Le stress sous la peau, la peur qui me suit,
+Mais même dans l’ombre, je cherche la lumière qui luit.
+
+Couplet 2
+
+Le monde va trop vite pour moi,
+Tout s’effondre en un regard.
+Je porte des chaînes invisibles
+Que personne ne voit nulle part.
+Je veux crier sans faire de bruit,
+Disparaître puis revenir fort,
+Apprendre à vivre avec la peur
+Sans qu’elle décide de mon sort.
+
+Pré-refrain
+
+J’ai mal, mais je reste là,
+Même brisé, je fais face.
+
+Refrain
+
+Le stress sous la peau, la peur dans les veines,
+Un feu silencieux qui brûle sans haine.
+Je tiens debout mais je vacille parfois,
+Humain, fragile, perdu entre hier et moi.
+Le stress sous la peau, la peur qui me suit,
+Mais même dans l’ombre, je choisis la vie.
+
+Pont
+
+Et si la peur n’était qu’un signe,
+Que je suis vivant, que je ressens ?
+Si chaque faille dessinait
+La force que j’apprends lentement ?
+
+Dernier refrain
+
+Le stress sous la peau, la peur humaine,
+Je ne la fuis plus, je la comprends.
+Je marche avec elle, pas à pas,
+Ce n’est pas ma fin, c’est mon combat.Sous la peau…
+Je reste debout.`,
 
 
   // ── Ajoute tes paroles ci-dessous ───────────────────────────
