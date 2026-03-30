@@ -40,6 +40,7 @@ const TRACKS = [
     src: "musiques/PXP feat ChatGPT _Suno - God Mode.mp3",
     cover: "",
     synopsis: ""
+  },
   // ── Ajoute tes morceaux ci-dessous ──────────────────────────
   // {
   //   id: 2,
