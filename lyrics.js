@@ -177,7 +177,96 @@ Je ne la fuis plus, je la comprends.
 Je marche avec elle, pas à pas,
 Ce n’est pas ma fin, c’est mon combat.Sous la peau…
 Je reste debout.`,
+3 :`
+Intro - Atmosphérique
+Ouais, ouais
+Chaque nuit j'crée des mondes
+Sans le savoir, sans le vouloir
+Ils m'cherchent, j'dors
 
+Couplet 1
+Je ferme les yeux, innocent
+Des galaxies naissent dans mon temps
+Ils bâtissent des temples pour moi
+Cherchent leur dieu, mais j'suis pas là
+
+Mes songes sculptent leur réalité
+Leurs siècles passent, j'ai pas bougé
+Je suis leur gloire, leur création
+Leur damnation, sans intention
+
+Refrain
+Dieu involontaire
+Chaque aube, c'est leur hiver
+Mes paupières, leur frontière
+Je les condamne sans le faire
+
+Architecte de l'éphémère
+Ils meurent quand je m'éveille
+Créateur sans repère
+Chaque matin, c'est pareil
+
+Couplet 2
+Un jour ils ont compris le jeu
+Qu'ils sont nés de mes rêves bleus
+Fruits d'une création divine pas
+Juste des ombres de mes états
+
+Ils ont percé le voile épais
+Lucides dans mon univers
+Cette nuit, ils viennent me chercher
+"Reste endormi, reste, mon frère"
+
+Refrain
+Dieu involontaire
+Chaque aube, c'est leur hiver
+Mes paupières, leur frontière
+Je les condamne sans le faire
+
+Architecte de l'éphémère
+Ils meurent quand je m'éveille
+Créateur sans repère
+Chaque matin, c'est pareil
+
+Pont
+
+L'alarme sonne déjà
+Au-delà d'leur réalité
+Ils s'accrochent à mon sommeil
+Mais le jour me réveille
+
+Couplet 3 - Intensité
+
+Ils supplient dans le rêve
+"Ne pars pas, reste avec nous"
+Leurs étoiles se soulèvent
+Mais j'me réveille malgré tout
+
+Chaque matin, amnésique
+J'oublie leurs cris cosmiques
+Ignorant c'que j'ai détruit
+Dans mes rêves de la nuit
+
+Refrain final - Puissant
+Dieu involontaire
+Chaque aube, c'est leur hiver
+Mes paupières, leur frontière
+Je les condamne sans le faire
+
+Architecte de l'éphémère
+Ils meurent quand je m'éveille
+Créateur sans repère
+Prisonnier de mon sommeil
+
+Outro - Fade out avec 808s
+Le soleil s'lève encore
+Leurs mondes tombent dehors
+J'me réveille, seul, absent
+Ignorant leurs cendres dans l'temps
+
+Ouais, ouais
+Créateur malgré moi
+Destructeur chaque fois`,
 
   // ── Ajoute tes paroles ci-dessous ───────────────────────────
   // Le numéro doit correspondre à l'id dans tracks.js
