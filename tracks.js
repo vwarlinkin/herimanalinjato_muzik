@@ -33,7 +33,13 @@ const TRACKS = [
   cover: "pochettes/souspoc.jpg",
   synopsis: ""
 },
-
+  {
+    id: 3,
+    title: "PXP feat ChatGPT _Suno - God Mode",
+    genre: "Drill Sad 140BPM",
+    src: "musiques/PXP feat ChatGPT _Suno - God Mode.mp3",
+    cover: "",
+    synopsis: ""
   // ── Ajoute tes morceaux ci-dessous ──────────────────────────
   // {
   //   id: 2,
